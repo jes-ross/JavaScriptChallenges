@@ -1,3 +1,6 @@
 PhoneAgenda/package.json
 PhoneAgenda/package-lock.json
 PhoneAgenda/node_modules
+
+BrowserQueue/package.json
+BrowserQueue/package-lock.json
